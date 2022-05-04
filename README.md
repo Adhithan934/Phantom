@@ -1,0 +1,2 @@
+# Phantom
+Ambient lighting
